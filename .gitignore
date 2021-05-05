@@ -130,5 +130,6 @@ dmypy.json
 
 # Local files
 CorpusSonetosSigloDeOro/
+.vscode/
 
 
