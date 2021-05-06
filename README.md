@@ -8,7 +8,7 @@ Para poder hacer el ejemplo es necesario crear un entorno de `conda`con
 
 ```bash
 
-$ conda create --file lda-ejemplo.yml
+$ conda env create --file lda-ejemplo.yml
 
 ```
 
